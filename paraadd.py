@@ -1,4 +1,4 @@
-s This to add 2 numbers using parameters
+# This to add 2 numbers using parameters
 
 num1 = input()
 num2 = input()
